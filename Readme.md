@@ -14,6 +14,6 @@
 6. Go to the directory and do "npm install" on command line
 7. Finally do "node todo"  (because todo.js is the file name)
 8. You can also install "nodemon" for continuous sync of the server when ever you make chages to the main file (in this case todo.js)
-    -- To save it globally use: npm install nodemon -g
-    -- Locally : npm install --save-dev nodemon
+    (a) To save it globally use: npm install nodemon -g
+    (b) Locally : npm install --save-dev nodemon
 9. Finally do nodemon todo (because todo.js is the file name)
