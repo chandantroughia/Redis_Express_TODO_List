@@ -4,7 +4,8 @@ Technologies Used:
   2. NodeJs
   3. Redis used as database
   4. EJS used for templating
-
+  
+*********Steps*********
 1. Install Redis //--> brew install redis
 2. Start the redis server //--> redis-server
 3. Start the redis cli to moniter and verification //--> redis-cli
