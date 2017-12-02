@@ -3,6 +3,7 @@ Technologies Used:
   1. Express
   2. NodeJs
   3. Redis used as database
+  4. EJS used for templating
 
 1. Install Redis //--> brew install redis
 2. Start the redis server //--> redis-server
